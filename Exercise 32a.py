@@ -57,11 +57,6 @@ def main ():
         else :
             print("Hanged")
              
-
-
-
-
-
     def outpt ():
         nonlocal g
         if "_" not in g:
